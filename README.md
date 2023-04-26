@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Khánh Long</h1>
-<h3 align="center">A passionate embedded software developer from VietNam</> //<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStqoixARyav5l4WGdi0kYu1wy_Ut1aCH2VEA&usqp=CAU"/></h3>
+<h3 align="center">A passionate embedded software developer from VietNam</h3>
 <h3 align="center"><img src="https://img.icons8.com/clouds/1x/vietnam--v2.png"/></h3>
 
 - 📫 How to reach me **khanhlong22102000@gmail.com**
