@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Khánh Long</h1>
 <h3 align="center">A passionate embedded software developer from VietNam</h3>
-<img src="https://icons8.com/icon/1w1cIaJMNb5h/vietnam"/> 
+<img src="https://imgur.com/QTfQRCq"/>
 
 - 📫 How to reach me **khanhlong22102000@gmail.com**
 
