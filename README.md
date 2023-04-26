@@ -4,7 +4,7 @@
 
 - 📫 How to reach me **khanhlong22102000@gmail.com**
 
-- 👨‍💻 All of my projects are available at [https://github.com/khanhlong22102000/SPWM-3-PHASE-STM32F103C8T6](https://github.com/khanhlong22102000/SPWM-3-PHASE-STM32F103C8T6)
+- 👨‍💻 All of my projects are available at [https://github.com/khanhlong22102000](https://github.com/khanhlong22102000)
 
 <p align="left">
 </p>
