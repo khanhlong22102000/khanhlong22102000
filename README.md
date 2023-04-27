@@ -8,9 +8,9 @@
   <img src="https://img.icons8.com/clouds/1x/vietnam--v2.png"/>
 </h3>
 
-- ✍ I graduated from [Ho Chi Minh City University of Transport](https://ut.edu.vn/)
+- 🎓 I graduated from [Ho Chi Minh City University of Transport](https://ut.edu.vn/)
 
-- ⚡ My major was [Electrical engineering](https://daotao.ut.edu.vn/?mid=43)
+- 📚 My major was [Electrical engineering](https://daotao.ut.edu.vn/?mid=43)
 
 - 👨‍💻 All of my projects are available at [Long's projects](https://github.com/khanhlong22102000?tab=repositories)
 
@@ -19,7 +19,7 @@
 <p align="left">
  </p>
   <h3 align="left">
-   Languages and Tools:
+   ⭐️ Languages and Tools:
 </h3>
  <p align="left">  
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
