@@ -1,5 +1,5 @@
 <h1 align="center">
-  Hi 👋, I'm Khanh Long
+   <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 40px> Hello, I'm Khanh Long
 </h1>
 <h3 align="center">
   A passionate embedded software developer from VietNam
