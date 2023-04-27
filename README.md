@@ -15,12 +15,12 @@
 - 👨‍💻 All of my projects are available at [Long's projects](https://github.com/khanhlong22102000?tab=repositories)
 
 
-<p align="left">
+<p align="center">
  </p>
-  <h3 align="left">
-   ⭐️ Languages and Tools:
+  <h3 align="center">
+   ⭐️Languages and Tools⭐️
 </h3>
- <p align="left">  
+ <p align="center">  
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
  </a> 
