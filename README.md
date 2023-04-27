@@ -8,7 +8,7 @@
   <img src="https://img.icons8.com/clouds/1x/vietnam--v2.png"/>
 </h3>
 
-- ✍ I graduated form [Ho Chi Minh City University of Transport](https://ut.edu.vn/)
+- ✍ I graduated from [Ho Chi Minh City University of Transport](https://ut.edu.vn/)
 
 - ⚡ My major was [Electrical engineering](https://daotao.ut.edu.vn/?mid=43)
 
