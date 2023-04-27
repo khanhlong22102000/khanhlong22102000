@@ -12,7 +12,7 @@
 
 - ⚡ My major was [Electrical engineering](https://daotao.ut.edu.vn/?mid=43)
 
-- 👨‍💻 All of my projects are available at [Long's projects](https://github.com/khanhlong22102000)
+- 👨‍💻 All of my projects are available at [Long's projects](https://github.com/khanhlong22102000?tab=repositories)
 
 - 📫 How to reach me **khanhlong22102000@gmail.com**
 
