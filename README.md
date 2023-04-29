@@ -20,7 +20,7 @@
    <tr>
       <td>
          <p align="center"> 
-            <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="dev" width="100%"/>
+            <img src="https://media2.giphy.com/media/IcZhFmufozDCij3p22/giphy.gif?cid=ecf05e47dfvfbfvtmvmcefpq6hsxje0fnksp5nhnihirnq5m&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="dev" width="100%"/>
       </td>
       <td>
          <p align="center">
@@ -47,7 +47,7 @@
       </td>
       <td>
          <p align="center"> 
-            <img src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" alt="dev" width="100%"/>
+            <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="dev" width="100%"/>
          </p>
       </td>
    </tr>
