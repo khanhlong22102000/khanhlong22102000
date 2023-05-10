@@ -36,7 +36,10 @@
                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="100" height="100"/> 
             </a> 
             <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> 
-               <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="100" height="100"/> 
+               <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="100" height="100"/>
+            </a>
+            <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> 
+               <img src="https://img.icons8.com/?size=512&id=9OGIyU8hrxW5&format=png" alt="visual studio code" width="100" height="100"/>
           </p>
       </td>
    </tr>  
